@@ -49,5 +49,45 @@
 
 
 // relationship operator
+// binary
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     int a = 10, b = 20,c;
+    
+//     c = a>b ;
+//     cout<< c <<endl;
+//     c = a<b ;
+//     cout<< c <<endl;
+//     c = a<=b ;
+//     cout<< c <<endl;
+//     c = a>=b ;
+//     cout<< c <<endl;
+//     c = a==b ;
+//     cout<< c <<endl;
+//     c = a!=b ;
+//     cout<< c <<endl;
+// }
+
+// ternary
+// ?:
+
+// condition ? trueStatements : FalseStatements ;
+
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     int a = 100;
+//     a>20 ? cout<<"True"<<endl : cout<<"False"<<endl;
+// }
+
+// ++++++++++++++++++++++++++++
+// get 3 angles from user and print its triangle or not 
+// leap year 
+// even odd 
+// negative and positive
+
 // logical operator
 // assignmant operator 
