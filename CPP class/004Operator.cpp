@@ -22,7 +22,6 @@
                 // b = a++;
                 // cout<<"a = "<<a<<" and b = "<<b<<endl;
             // }
-
     // binary
     // #include<iostream>
     // using namespace std;
@@ -45,7 +44,7 @@
 
 // get radious and print area of circle 
 // get height and base and print area of triangle
-
+// --------------------------------------------------
 
 
 // relationship operator
@@ -89,5 +88,36 @@
 // even odd 
 // negative and positive
 
+// +++++++++++++++++++++++++++++++++++++++++++++++
 // logical operator
+// and - && - ziddi operator 
+// icecream            chocolate           feel
+//     0                   0               0
+//     0                   1               0
+//     1                   0               0
+//     1                   1               1
+
+// or - || - gareeb manacha manus
+// icecream            chocolate           feel
+//     0                   0               0   
+//     0                   1               1
+//     1                   0               1
+//     1                   1               1 
+
+// not  - ! - ulatya khopdicha
+// 0 -----> 1
+// 1 -----> 0
+
+// ==========================================
+
 // assignmant operator 
+// a = 10
+// b = a
+
+// a = 10
+// a = a + 2 
+// a += 2
+// a -= 2
+// a *= 2
+// a /= 2
+// a %= 2
