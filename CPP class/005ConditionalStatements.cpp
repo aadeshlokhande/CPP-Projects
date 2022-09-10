@@ -151,3 +151,27 @@
 // get a year and check its leap year or not 
 
 // get 3 numbers and print greatest number
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     int num1,num2,num3; 
+//     cout<<"enter a number = ";
+//     cin>>num1;
+//     cout<<"enter a number = ";
+//     cin>>num2;
+//     cout<<"enter a number = ";
+//     cin>>num3;
+//     if(num1>num2 && num1>num3)
+//     {
+//         cout<<num1<<endl;
+//     }
+//     else if(num2>1 && num2>num3)
+//     {
+//         cout<<num2<<endl;
+//     }
+//     else 
+//     {
+//         cout<<num3<<endl;
+//     }
+// }
